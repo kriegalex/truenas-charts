@@ -1,0 +1,11 @@
+groups:
+  - name: "Gitlab Configuration"
+questions:
+  - variable: hostDomain
+    label: "Host Domain"
+    group: "Gitlab Configuration"
+    schema:
+      type: string
+      default: "domain.example.com"
+
+
