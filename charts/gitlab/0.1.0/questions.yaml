@@ -1,5 +1,6 @@
 groups:
   - name: "Gitlab Configuration"
+    description: "Configure Gitlab deployment"
 questions:
   - variable: hostDomain
     label: "Host Domain"
