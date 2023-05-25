@@ -1,0 +1,12 @@
+icon_url: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
+categories:
+  - productivity
+screenshots:
+  - https://upload.wikimedia.org/wikipedia/commons/d/d5/GitLab_running_14.3.0-pre_%282021-08%29.png
+  - https://i0.wp.com/www.apexhours.com/wp-content/uploads/2023/02/Create-GitLab-Project-for-Salesforce.png
+tags:
+  - devops
+  - gitops
+  - secops
+  - gitlab
+  - git
